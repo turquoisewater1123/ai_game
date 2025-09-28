@@ -1,0 +1,42 @@
+2025-09-28 23:19:49 - ai_snake_game - INFO - ==================================================
+2025-09-28 23:19:49 - ai_snake_game - INFO - AI贪吃蛇游戏启动
+2025-09-28 23:19:49 - ai_snake_game - INFO - ==================================================
+2025-09-28 23:19:49 - ai_snake_game - INFO - 创建游戏界面
+2025-09-28 23:19:49 - ai_snake_game - INFO - 初始化游戏界面
+2025-09-28 23:19:49 - ai_snake_game - INFO - 初始化游戏渲染器
+2025-09-28 23:19:49 - ai_snake_game - INFO - 游戏渲染器初始化完成
+2025-09-28 23:19:49 - ai_snake_game - INFO - 游戏界面初始化完成
+2025-09-28 23:19:49 - ai_snake_game - INFO - 开始运行游戏
+2025-09-28 23:19:49 - ai_snake_game - INFO - 开始游戏主循环
+2025-09-28 23:19:51 - ai_snake_game - INFO - 主菜单按键: 32
+2025-09-28 23:19:51 - ai_snake_game - INFO - 开始手动游戏
+2025-09-28 23:19:51 - ai_snake_game - INFO - 开始新游戏 - AI模式: False, 难度: 2
+2025-09-28 23:19:51 - ai_snake_game - INFO - 重置游戏状态
+2025-09-28 23:19:51 - ai_snake_game - INFO - 游戏已开始 - 状态: playing, 速度: 15
+2025-09-28 23:19:52 - ai_snake_game - INFO - 游戏结束 - 最终分数: 0, 蛇长度: 1
+2025-09-28 23:19:55 - ai_snake_game - INFO - 主菜单按键: 49
+2025-09-28 23:19:55 - ai_snake_game - INFO - 开始AI游戏 (简单难度)
+2025-09-28 23:19:55 - ai_snake_game - INFO - 开始新游戏 - AI模式: True, 难度: 1
+2025-09-28 23:19:55 - ai_snake_game - INFO - 重置游戏状态
+2025-09-28 23:19:55 - ai_snake_game - INFO - 游戏已开始 - 状态: playing, 速度: 10
+2025-09-28 23:19:57 - ai_snake_game - INFO - 主菜单按键: 50
+2025-09-28 23:19:57 - ai_snake_game - INFO - 开始AI游戏 (中等难度)
+2025-09-28 23:19:57 - ai_snake_game - INFO - 开始新游戏 - AI模式: True, 难度: 2
+2025-09-28 23:19:57 - ai_snake_game - INFO - 重置游戏状态
+2025-09-28 23:19:57 - ai_snake_game - INFO - 游戏已开始 - 状态: playing, 速度: 15
+2025-09-28 23:19:58 - ai_snake_game - INFO - 吃到普通食物 - 位置: (25, 17)
+2025-09-28 23:20:00 - ai_snake_game - INFO - 主菜单按键: 52
+2025-09-28 23:20:00 - ai_snake_game - INFO - 开始AI游戏 (专家难度)
+2025-09-28 23:20:00 - ai_snake_game - INFO - 开始新游戏 - AI模式: True, 难度: 4
+2025-09-28 23:20:00 - ai_snake_game - INFO - 重置游戏状态
+2025-09-28 23:20:00 - ai_snake_game - INFO - 游戏已开始 - 状态: playing, 速度: 25
+2025-09-28 23:20:00 - ai_snake_game - INFO - 吃到普通食物 - 位置: (23, 18)
+2025-09-28 23:20:02 - ai_snake_game - INFO - 主菜单按键: 50
+2025-09-28 23:20:02 - ai_snake_game - INFO - 开始AI游戏 (中等难度)
+2025-09-28 23:20:02 - ai_snake_game - INFO - 开始新游戏 - AI模式: True, 难度: 2
+2025-09-28 23:20:02 - ai_snake_game - INFO - 重置游戏状态
+2025-09-28 23:20:02 - ai_snake_game - INFO - 游戏已开始 - 状态: playing, 速度: 15
+2025-09-28 23:20:03 - ai_snake_game - INFO - 游戏主循环结束
+2025-09-28 23:20:03 - ai_snake_game - INFO - 游戏资源已清理
+2025-09-28 23:20:03 - ai_snake_game - INFO - 游戏正常结束
+2025-09-28 23:20:03 - ai_snake_game - INFO - 游戏已退出
